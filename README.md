@@ -1,11 +1,11 @@
-# Factory Method — Exportación de reportes
+# Factory Method - Exportación de reportes
 
 Implementación mínima del patrón **Factory Method** para la tarea de
 Patrones de Diseño.
 
 Autores:
-- Jose David Espinoza Brenes — carné 2023145994
-- Jeremmy Aguilar Villanueva — carné 2022191791
+- Jose David Espinoza Brenes - carné 2023145994
+- Jeremmy Aguilar Villanueva - carné 2022191791
 
 ## Qué hace
 
